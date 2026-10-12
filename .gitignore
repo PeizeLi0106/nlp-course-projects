@@ -1,0 +1,39 @@
+# Local datasets and generated data
+sentiment_analysis/data/
+machine_translation/data/
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Virtual environments and secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Training outputs and model weights
+checkpoint-*/
+results/
+runs/
+logs/
+*.pt
+*.pth
+*.safetensors
+pytorch_model.bin
+*.h5
+*.keras
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Project-specific training outputs
+distilbert-3class/
+distilbert-2class/
+marian-nl-en/
+marian-en-sv/
+
+# Generated translation predictions
+task4_test_predictions.json

@@ -1,0 +1,14 @@
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+wordcloud
+imbalanced-learn
+gensim
+torch
+transformers
+datasets
+accelerate

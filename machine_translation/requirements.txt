@@ -1,0 +1,14 @@
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+gensim
+torch
+transformers
+datasets
+accelerate
+sentencepiece
+sacrebleu
